@@ -1,7 +1,9 @@
 <application>
   <component name="TipsStore">
     <option name="globalFirstStartUp" value="false" />
+    <entry projectName="D:/code/gitlab/foton演示demo/mmds" firstStartUp="false" />
     <entry projectName="D:/code/gitlab/remote/foton" firstStartUp="false" />
+    <entry projectName="D:/code/gitlab/国能演示demo/mmds" firstStartUp="false" />
     <entry projectName="D:/code/oschina/myProjectBoot" firstStartUp="false" />
     <entry projectName="D:/code/work/onlinecyc/cyc2/CYC" firstStartUp="false" />
   </component>
